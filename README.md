@@ -1,4 +1,4 @@
-# blog_crud
+# word bank app
 
 A new Flutter project.
 
