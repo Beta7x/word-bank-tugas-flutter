@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "189065736796",
+    "project_id": "word-bank-35714",
+    "storage_bucket": "word-bank-35714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189065736796:android:4610c4d15bbd05f4d8ac99",
+        "android_client_info": {
+          "package_name": "com.example.blog_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189065736796-ice75gd39s484qtdu947i74g8mtctr1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blog_crud",
+            "certificate_hash": "b9c737228cb54d0689af78ac99fc24fc34acdcba"
+          }
+        },
+        {
+          "client_id": "189065736796-8d2prhmutlia3n4lv8eu0dhbr47gdjk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwUjMYJoBQCUie6-L0En2CaBhVxOTMHk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189065736796-8d2prhmutlia3n4lv8eu0dhbr47gdjk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
